@@ -47,15 +47,15 @@ The program can be tested using locations such as:
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](main-menu.png)
+![Main Menu](screenshots/main-menu.png)
 ### Adjacency Matrix
-![Adjacency Matrix](adjacency-matrix.png)
+![Adjacency Matrix](screenshots/adjacency-matrix.png)
 
 ### Shortest Path Output
-![Shortest Path](shortest-path.png)
+![Shortest Path](screenshots/shortest-path.png)
 
 ### Distance from Source
-![Distance from Source](distance-from-source.png)
+![Distance from Source](screenshots/distance-from-source.png)
 
 ## ▶️ How to Run
 1. Download or clone this repository.
